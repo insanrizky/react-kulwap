@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Belajar Gak Mesti di Kampus",
+      "author": "Farid",
+      "content": "Lorem ipsum dolor sit ame",
+      "id": 2
+    },
+    {
+      "title": "Test Ajah",
+      "author": "123",
+      "content": "123",
+      "id": 3
+    },
+    {
+      "title": "Kamen Rider",
+      "author": "x5",
+      "content": "common rider",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "authors": [
+    {
+      "name": "anonymous"
+    }
+  ]
+}
