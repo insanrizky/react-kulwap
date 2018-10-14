@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
-import NavbarBootstrap from './NavbarBootstrap';
-import Posts from './Posts';
-import EditPost from './EditPost';
-import Profiles from './Profiles';
+import NavbarBootstrap from './components/NavbarBootstrap';
+import Posts from './components/Posts';
+import EditPost from './components/EditPost';
+import Profiles from './components/Profiles';
 
 class App extends Component {
 
